@@ -1,5 +1,26 @@
 h1 {
-    text-align: center;
-    color: cornflowerblue;
-  }
-  
+  text-align: center;
+  color: cornflowerblue;
+}
+#burritos {
+  width: 1000px;
+  height: auto;
+}
+#lizard {
+  text-align: center;
+}
+
+#lizardImg {
+  width: 500px;
+  height: auto;
+}
+
+#errorText {
+  text-align: center;
+  color: cornflowerblue;
+}
+
+.restaurant {
+  width: 450px;
+  height: 450px;
+}
