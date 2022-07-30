@@ -10,7 +10,7 @@ function error404() {
         <div id="lizard">
           <img
             id="lizardImg"
-            src="css/images/notFoodMyFriend.jpg"
+            src="/css/images/notFoodMyFriend.jpg"
             alt="funnyLizard"
           />
           <div>
